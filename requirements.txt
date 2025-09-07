@@ -4,3 +4,5 @@ yfinance
 jupyter
 python-dotenv
 matplotlib
+transformers
+torch
