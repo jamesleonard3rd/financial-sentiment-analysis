@@ -3,3 +3,4 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 notebooks/00.ipynb
+data/intermediate/

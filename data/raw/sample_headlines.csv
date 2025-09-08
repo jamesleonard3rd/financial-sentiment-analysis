@@ -1,0 +1,10 @@
+time,source,ticker,title,url
+2024-12-02T13:05:00Z,ExampleWire,AAPL,Apple unveils holiday promo on services bundle,https://example.com/aapl-promo
+2024-12-02T14:10:00Z,MarketDaily,AAPL,Suppliers signal stable demand into Q1,https://example.com/aapl-suppliers
+2024-12-03T09:45:00Z,TechBrief,MSFT,Microsoft announces new Copilot features for SMBs,https://example.com/msft-copilot
+2024-12-03T16:20:00Z,MacroWatch,MSFT,Analyst raises price target after Azure growth update,https://example.com/msft-azure-pt
+2024-12-04T11:00:00Z,EVBeat,TSLA,Tesla expands charging network partnerships in EU,https://example.com/tsla-charging
+2024-12-04T15:30:00Z,StreetInsider,TSLA,Report: delivery schedules unchanged ahead of quarter close,https://example.com/tsla-deliveries
+2024-12-05T13:00:00Z,MarketDaily,AAPL,App Store revenue growth outpaces expectations,https://example.com/aapl-appstore
+2024-12-05T18:40:00Z,ExampleWire,MSFT,Enterprise seat growth cited in partner survey,https://example.com/msft-seats
+CSV
