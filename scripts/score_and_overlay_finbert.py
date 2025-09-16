@@ -63,7 +63,6 @@ h = h.reset_index(drop=True).join(scored)
 label_to_num = {"negative": -1, "neutral": 0, "positive": 1}
 h["sentiment_num"] = h["label"].str.lower().map(label_to_num).fillna(0)
 
-# 4) Save the scored headlines
 out_csv = os.path.join(out_dir, f"scored_headlines_{ticker}_{start}_to_{end}.csv")
 h.to_csv(out_csv, index=False)
 print("Saved scored headlines:", out_csv)
